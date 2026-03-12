@@ -1,4 +1,4 @@
-const apiKey = ""; // Check karein ke \ na ho
+const apiKey = "c72f1c577086e0800d426018cff13045"; // Check karein ke \ na ho
 const apiUrl =
   "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
 
@@ -86,4 +86,5 @@ window.addEventListener("load", () => {
     );
   }
 });
+
 
